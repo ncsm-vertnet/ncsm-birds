@@ -1,0 +1,158 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 109
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Czech Republic ; Times: 2
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Thailand ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 4
+	Date: 2015-05-06 ; Times: 12
+	Date: 2015-05-07 ; Times: 15
+	Date: 2015-05-08 ; Times: 2
+	Date: 2015-05-09 ; Times: 4
+	Date: 2015-05-10 ; Times: 4
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 5
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-26 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "PATAGONA GIGAS" ; Times: 1
+	Query: ""chen caerulescens" tissue:1" ; Times: 1
+	Query: "grus antigone" ; Times: 2
+	Query: "Cistothorus palustris tissue:1" ; Times: 2
+	Query: "aves Georgia United States Troglodytes aedon" ; Times: 1
+	Query: ""platyrhynchos x "" ; Times: 1
+	Query: "otus bakkamoena" ; Times: 2
+	Query: ""Coracina striata"" ; Times: 6
+	Query: "country:"united states" specificepithet:ferruginea genus:calidris" ; Times: 1
+	Query: "specificepithet:bahamensis genus:anas tissue:1" ; Times: 1
+	Query: "aves Georgia United States Troglodytes troglodytes" ; Times: 1
+	Query: "Cistothorus palustris type:specimen tissue:1" ; Times: 4
+	Query: "specificepithet:bahamensis genus:anas AND (NOT peru NOT argentina) tissue:1" ; Times: 1
+	Query: "LSUMZ Aves tissue:1" ; Times: 1
+	Query: "aves Georgia United States Lanius ludovicianus" ; Times: 2
+	Query: "aves Georgia United States Passerella iliaca" ; Times: 1
+	Query: "falco sparverius road type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "Accipiter gularis" ; Times: 1
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 3
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 2
+	Query: "aves Georgia United States Tyrannus tyrannus" ; Times: 1
+	Query: "accipiter trivirgatus" ; Times: 4
+	Query: "buteo jamaicensis highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "cyanopectus" ; Times: 1
+	Query: "Falco sparverius type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 2
+	Query: "Crax globulosa" ; Times: 2
+	Query: "locustella certhiola" ; Times: 6
+	Query: "scolopax rusticola" ; Times: 2
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1950 year <= 2015" ; Times: 1
+	Query: "Phapitreron leucotis brevirostris" ; Times: 1
+	Query: "aves Georgia United States Parus carolinensis" ; Times: 1
+	Query: "aves Georgia United States Parus bicolor" ; Times: 1
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1980 year <= 2015" ; Times: 1
+	Query: "cuculus saturatus" ; Times: 2
+	Query: "zoothera dauma" ; Times: 2
+	Query: "psittacula eupatria" ; Times: 4
+	Query: "aves Georgia United States Sitta canadensis" ; Times: 1
+	Query: "Muscicapa randi" ; Times: 2
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs) year >= 1000 year <= 1907" ; Times: 1
+	Query: "Coracina striata" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 976 download events in this period)
+Total number of records downloaded: 1596 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1529
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-14 ; Times: 2
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-24 ; Times: 4
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "minnesota egg" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: ""Passer domesticus" type:specimen tissue:1" ; Times: 1
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 1
+	Query: "arachnothera" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus tissue:1" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 181
+Total number of records retrieved from searches: 744
+Number of download events that retrieved data from the resource: 82
+Total number of records downloaded: 5574
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 231
+Total number of records retrieved from searches: 860
+Number of download events that retrieved data from the resource: 155
+Total number of records downloaded: 8145
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
