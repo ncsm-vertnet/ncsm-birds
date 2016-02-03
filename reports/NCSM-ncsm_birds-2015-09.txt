@@ -1,0 +1,164 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 306
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: India ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-28 ; Times: 3
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-07 ; Times: 3
+	Date: 2015-09-11 ; Times: 2
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-04 ; Times: 3
+	Date: 2015-09-03 ; Times: 8
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 13
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "aethia pusilla type:specimen institutioncode:NCSM (skin)" ; Times: 1
+	Query: "perdix (skel OR skeleton)" ; Times: 1
+	Query: "catalognumber:8171 institutioncode:NCSM" ; Times: 4
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri NOT mexico NOT minnesota) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "rissa tridactyla type:specimen institutioncode:NCSM (skin)" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; country:&#34;united states&#34; specificepithet:aestivalis genus:aimophila" ; Times: 1
+	Query: "Stercorarius pomarinus skel*" ; Times: 1
+	Query: "lsu mns" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "Colinus type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "Puffinus lherminieri skel*" ; Times: 1
+	Query: "Oceanodroma leucorhoa skel*" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 3
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "uria lomvia type:specimen institutioncode:NCSM (skin)" ; Times: 1
+	Query: "Tringa flavipes skel*" ; Times: 1
+	Query: "Chlidonias (skel OR skeleton)" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "type:specimen (tinamou AND egg)" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "Sula leucogaster skel*" ; Times: 1
+	Query: "rissa brevirostris type:specimen (wing)" ; Times: 1
+	Query: "Neophron" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; country:&#34;united states&#34; specificepithet:henslowii genus:ammodramus" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "pig tissue:1" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:NCSM (wing)" ; Times: 1
+	Query: "aimophila aestivalis type:specimen tissue:1" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "lsu &#34;melospiza melodia&#34; tissue:1" ; Times: 2
+	Query: "specificepithet:ornatus genus:calcarius year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male" ; Times: 1
+	Query: "catalognumber:8427 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri NOT york) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "Oceanites oceanicus skel*" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "Colinus virginianus type:specimen tissue:1" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:NCSM (skin)" ; Times: 1
+	Query: "*4786* specificepithet:stelleri" ; Times: 2
+	Query: "catalognumber:13183 collectioncode:NCSM" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 3
+	Query: "rissa brevirostris type:specimen (skin)" ; Times: 1
+	Query: "Falco peregrinus skel*" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT UAM) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "catalognumber:8172 institutioncode:NCSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1045 download events in this period)
+Total number of records downloaded: 15526
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 3
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-14 ; Times: 2
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-22 ; Times: 5
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "salpinctes obsoletus tissue:1" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;New York&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+
+
+End of report.
