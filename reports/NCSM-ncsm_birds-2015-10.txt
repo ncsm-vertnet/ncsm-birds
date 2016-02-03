@@ -1,0 +1,138 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 97
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 2
+	Country: Unknown ; Times: 12
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: Japan ; Times: 1
+	Country: United States ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-01 ; Times: 4
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 11
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 8
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-28 ; Times: 7
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-12 ; Times: 4
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "archilochus (skel OR skeleton)" ; Times: 1
+	Query: "type:specimen genus:Tachyeres preparations:skeleton" ; Times: 1
+	Query: "Ledbetter county:&#34;Richmond&#34;" ; Times: 2
+	Query: "Florida Phoenicopterus" ; Times: 4
+	Query: "Neophron type:specimen" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 2
+	Query: "casual" ; Times: 2
+	Query: "gavia oregon" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "Neophron" ; Times: 5
+	Query: "paradisaea apoda" ; Times: 8
+	Query: "paradisaea apoda female" ; Times: 4
+	Query: "Derby county:&#34;Richmond&#34;" ; Times: 2
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Calyptomena (skel OR skeleton)" ; Times: 1
+	Query: "sturnella magna type:specimen tissue:1" ; Times: 1
+	Query: "Guttera pucherani year &gt;= 1950" ; Times: 1
+	Query: "coturnix skeleton" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "guttera pucherani year &gt;= 1960" ; Times: 1
+	Query: "phoebastria (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Calyptomena (skel OR skeleton) sex:female" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "genus:Agelaius stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Guttera year &gt;= 1950" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Acryllium vulturinum year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:regulus genus:Regulus tissue:1" ; Times: 1
+	Query: "Selasphorus rufus stateprovince:&#34;California&#34; tissue:1" ; Times: 2
+	Query: "Acryllium vulturinum year &gt;= 1920" ; Times: 1
+	Query: "crax globulosa" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 823 download events in this period)
+Total number of records downloaded: 929
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 4
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "type:specimen genus:Tachyeres preparations:skeleton" ; Times: 2
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Cyornis banyumas" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Washington&#34; year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "specificepithet:regulus genus:Regulus tissue:1" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen tissue:1" ; Times: 1
+
+
+End of report.
