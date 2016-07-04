@@ -1,0 +1,128 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 107
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Singapore ; Times: 8
+	Country: Portugal ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-14 ; Times: 12
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-02 ; Times: 8
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-11 ; Times: 4
+	Date: 2016-06-08 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Numenius tissue:1" ; Times: 1
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "ortalis ruficauda ruficauda" ; Times: 2
+	Query: "JFP-640" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 2
+	Query: "Gambel AND Island" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "numenius tissue:1" ; Times: 4
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 2
+	Query: "colinus type:specimen tissue:1" ; Times: 1
+	Query: "Numenius phaeopus phaeopus tissue:1" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "53 county:&#34;Bladen&#34;" ; Times: 2
+	Query: "setophaga ruticilla tissue:1" ; Times: 2
+	Query: "14352" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Numenius phaeopus tissue:1" ; Times: 1
+	Query: "Dendroica magnolia north carolina tissue:1" ; Times: 1
+	Query: "Circus cyaneus AND Island" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "guinea fowl" ; Times: 1
+	Query: "pterodroma sandwichensis" ; Times: 3
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "Otus kennicotti" ; Times: 3
+	Query: "Oceanodroma microsoma AND Island" ; Times: 1
+	Query: "210 county:&#34;Bladen&#34;" ; Times: 1
+	Query: "crax globulosa" ; Times: 1
+	Query: "Rallus limicola AND Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1052 download events in this period)
+Total number of records downloaded: 341
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 24
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 5
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-16 ; Times: 2
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "grus americana" ; Times: 3
+	Query: "goura" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "magnolia warbler" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+
+
+End of report.
