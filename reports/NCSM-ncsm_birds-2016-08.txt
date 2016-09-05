@@ -1,0 +1,107 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 155
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 5
+	Date: 2016-08-30 ; Times: 6
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:struthio" ; Times: 1
+	Query: "Empidonax trailii" ; Times: 1
+	Query: "21820" ; Times: 1
+	Query: "type:specimen genus:apteryx" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:Colinus tissue:1" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus tissue:1" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "melanerpes carolinus Virginia" ; Times: 1
+	Query: "Orthotomus chloronotus" ; Times: 1
+	Query: "melanerpes erythrocephalus virginia" ; Times: 1
+	Query: "Todus mexicanus tissue:1" ; Times: 2
+	Query: "type:specimen genus:Heliactin class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:carolinus genus:Melanerpes institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Audubon year &gt;= 1810 year &lt;= 1860" ; Times: 1
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "type:specimen genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 3
+	Query: "eurostopodus macrotis" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 2
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 924 download events in this period)
+Total number of records downloaded: 570
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Aratinga acuticaudata tissue:1" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "cistothorus palustris tissue:1" ; Times: 1
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "Empidonax minimus year &gt;= 1980" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Picoides tridactylus year &gt;= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "&#34;otus asio&#34; tissue:1" ; Times: 1
+
+
+End of report.
