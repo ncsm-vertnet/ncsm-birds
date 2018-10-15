@@ -1,0 +1,234 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 674
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: United States ; Times: 115
+	Country: Portugal ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 5
+	Date: 2018-02-08 ; Times: 27
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-05 ; Times: 6
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 7
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-27 ; Times: 8
+	Date: 2018-02-26 ; Times: 8
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-14 ; Times: 9
+	Date: 2018-02-15 ; Times: 20
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 8
+	Date: 2018-02-12 ; Times: 8
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "red knot vntype:specimen year &gt;= 1800 year &lt;= 1900 month &gt;= 5 month &lt;= 5 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 12
+	Query: "Anas luzonica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aythya collaris basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Anas crecca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Melanitta nigra basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Aythya marila basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Melanitta fusca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Oxyura leucocephala basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;South Carolina&#34; institutioncode:NCSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;South Carolina&#34; year &gt;= 2007 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bucephala albeola basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 4
+	Query: "Anser albifrons basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;South Carolina&#34; year &gt;= 2010 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 11
+	Query: "UNCW" ; Times: 1
+	Query: "Phoebetria palpebrata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "NCSM 15329" ; Times: 2
+	Query: "rufous hummingbird santa barbara" ; Times: 1
+	Query: "class:aves stateprovince:&#34;south carolina&#34; year &gt;= 2007 year &lt;= 2017" ; Times: 2
+	Query: "AMPELICEPS CORONATUS" ; Times: 1
+	Query: "Anas rubripes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "NCSM 15327" ; Times: 4
+	Query: "elf" ; Times: 2
+	Query: "Lophodytes cucullatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "NCSM 15348" ; Times: 6
+	Query: "specificepithet:fuscescens genus:catharus county:&#34;buncombe&#34; institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Bar-tailed Godwit" ; Times: 1
+	Query: "Aythya americana basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Nettapus coromandelianus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mergus merganser basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Melanitta perspicillata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Ara macao" ; Times: 4
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "red knot vntype:specimen year &gt;= 1800 year &lt;= 2000 month &gt;= 5 month &lt;= 5 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Columba livia egg" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "NCSM 15324" ; Times: 2
+	Query: "specificepithet:maccormicki class:aves" ; Times: 3
+	Query: "Netta rufina basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "Aythya affinis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Somateria spectabilis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:clarkii genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "Somateria mollissima basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.589535943,-95.44487865))&lt;31453" ; Times: 4
+	Query: "Anas bahamensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 4
+	Query: "class:aves (19137)" ; Times: 1
+	Query: "NCSM 15355" ; Times: 2
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mergus serrator basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dicrurus samarensis" ; Times: 6
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "class:Aves locality:Alabama" ; Times: 5
+	Query: "atlantic puffin" ; Times: 3
+	Query: "catalognumber:10222 collectioncode:Birds institutioncode:NCSM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;South Carolina&#34; year &gt;= 2000 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Diomedea nigripes" ; Times: 2
+	Query: "albino robin" ; Times: 1
+	Query: "gbifdatasetid:474cd7e1-7620-454f-828c-24907a15d6a7" ; Times: 1
+	Query: "genus:Diomedea preparations:Skel" ; Times: 7
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "Bucephala clangula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "Anhima cornuta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "NCSM 15326" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 1892 download events in this period)
+Total number of records downloaded: 2557
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 67
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 4
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-06 ; Times: 9
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 6
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-20 ; Times: 7
+	Date: 2018-02-05 ; Times: 25
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 4
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "vntype:specimen genus:otus hastissue:1 NOT (asio)" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "vntype:specimen genus:otus AND (asio) hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "coereba" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+
+
+End of report.
