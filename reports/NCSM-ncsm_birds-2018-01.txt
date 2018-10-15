@@ -1,0 +1,192 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 417
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: United States ; Times: 58
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 41
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 26
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-15 ; Times: 17
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-24 ; Times: 5
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-31 ; Times: 10
+	Date: 2018-01-16 ; Times: 29
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-23 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Empidonax trailii" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Ohio&#34; (song sparrow) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "bres frater" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 1
+	Query: "passenger pigeon skeleton" ; Times: 1
+	Query: "Anhima cornuta vntype:specimen" ; Times: 1
+	Query: "specificepithet:henslowii genus:ammodramus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Anser albifrons albifrons basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "catalognumber:18746 institutioncode:NCSM" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Aix galericulata sex:female hassex:1" ; Times: 1
+	Query: "genus:Dromaius sex:Female preparations:Skeleton" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "criniger frater" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 1
+	Query: "sphyrapicus ruber x nuchalis" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "Picoides borealis" ; Times: 2
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "vntype:specimen specificepithet:ensifera genus:Ensifera class:aves institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:ensifera genus:Ensifera class:Aves institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:aestivalis genus:aimophila stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla class:Aves county:&#34;pima&#34;" ; Times: 2
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "specificepithet:henslowii genus:ammodramus institutioncode:NCSM" ; Times: 2
+	Query: "phylloscopus xanthodryas" ; Times: 10
+	Query: "Protonotaria citrea" ; Times: 1
+	Query: "catalognumber:19839 institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:opaca genus:aplonis class:aves year &gt;= 1990 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cossypha natalensis" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Peucedramus taeniatus" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Aix galericulata sex:Female hassex:1" ; Times: 1
+	Query: "catalognumber:3430 institutioncode:NCSM" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 4
+	Query: "Egretta caerulea" ; Times: 1
+	Query: "catalognumber:18745 institutioncode:NCSM" ; Times: 2
+	Query: "Caracara plancus" ; Times: 1
+	Query: "catalognumber:18939 institutioncode:NCSM" ; Times: 2
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "catalognumber:23179 institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:ciris genus:passerina stateprovince:&#34;north carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:parus year &gt;= 1990 year &lt;= 2017" ; Times: 2
+	Query: "Stictonetta naevosa basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "catalognumber:22994 institutioncode:NCSM" ; Times: 3
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "specificepithet:ciris genus:passerina stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Lamprolaima rhami" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Dendrocygna arcuata arcuata vntype:specimen" ; Times: 1
+	Query: "specificepithet:squamata genus:Callipepla class:Aves county:&#34;cochise&#34;" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "sphyrapicus nuchalis x ruber" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Anser anser basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "specificepithet:rusticolus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "hirundapus" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "anhima cornuta" ; Times: 1
+	Query: "Passerculus sandwichensis AND mass" ; Times: 1
+	Query: "genus:Coragyps hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:parus year &gt;= 2000 year &lt;= 2017" ; Times: 2
+	Query: "Tyrannus couchii" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Cygnus olor sex:male hassex:1" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1398 download events in this period)
+Total number of records downloaded: 607
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 4
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-25 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:aestivalis genus:aimophila stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "county:&#34;Hancock&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "bananaquit" ; Times: 1
+	Query: "pinyon jay" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "genus:Coragyps hastissue:1" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza year &gt;= 1901 year &lt;= 1904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "pachyramphus aglaiae" ; Times: 1
+	Query: "specificepithet:ciris genus:passerina stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:satrapa genus:Regulus year &gt;= 1980 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Locustella" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Sitta year &gt;= 1980 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Maine&#34; hastissue:1" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Acrocephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ensifera genus:Ensifera class:aves institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+
+
+End of report.
