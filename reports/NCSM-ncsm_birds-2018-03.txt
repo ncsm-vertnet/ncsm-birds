@@ -1,0 +1,197 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 628
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 155
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: United Kingdom ; Times: 4
+	Country: China ; Times: 2
+	Country: Puerto Rico ; Times: 5
+	Country: Argentina ; Times: 8
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 12
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-16 ; Times: 10
+	Date: 2018-03-14 ; Times: 5
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-27 ; Times: 22
+	Date: 2018-03-19 ; Times: 6
+	Date: 2018-03-18 ; Times: 5
+	Date: 2018-03-01 ; Times: 12
+	Date: 2018-03-02 ; Times: 11
+	Date: 2018-03-03 ; Times: 13
+	Date: 2018-03-05 ; Times: 9
+	Date: 2018-03-28 ; Times: 14
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 32
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 4
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "procellaria westlandica" ; Times: 2
+	Query: "ptilocichla falcata" ; Times: 6
+	Query: "rallina fasciata" ; Times: 1
+	Query: "Aratinga erythrogenys" ; Times: 1
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "genus:Apus specificepithet:apus" ; Times: 2
+	Query: "specificepithet:corax genus:corvus stateprovince:&#34;Carolina&#34; year &gt;= 1850 year &lt;= 2018" ; Times: 2
+	Query: "class:Aves (17829)" ; Times: 1
+	Query: "catalognumber:15284 hastissue:1" ; Times: 1
+	Query: "genus:Sagittarius specificepithet:serpentarius" ; Times: 5
+	Query: "specificepithet:corax genus:Corvus stateprovince:&#34;North Carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:virescens genus:Butorides hastissue:1" ; Times: 1
+	Query: "class:aves (16522)" ; Times: 1
+	Query: "class:Aves preparations:skin catalognumber:12541" ; Times: 1
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 2
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 5
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "genus:Merops specificepithet:viridis" ; Times: 6
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "Flying squirrel skeleton" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Birds institutioncode:NCSM hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Jacana specificepithet:jacana" ; Times: 2
+	Query: "genus:empidonax institutioncode:NCSM hastissue:1" ; Times: 4
+	Query: "vntype:specimen genus:Aptenodytes hastissue:1" ; Times: 1
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 2
+	Query: "genus:Anseranas specificepithet:semipalmata" ; Times: 5
+	Query: "Aves institutioncode:NCSM hassex:1 hasmass:1" ; Times: 2
+	Query: "passenger pigeon" ; Times: 5
+	Query: "specificepithet:corax genus:corvus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Pelagodroma specificepithet:marina" ; Times: 5
+	Query: "circus cyaneus vntype:specimen hastissue:1" ; Times: 2
+	Query: "specificepithet:trailii genus:empidonax institutioncode:NCSM hastissue:1" ; Times: 1
+	Query: "genus:Chrysocolaptes specificepithet:lucidus" ; Times: 2
+	Query: "genus:Todus specificepithet:mexicanus" ; Times: 6
+	Query: "specificepithet:corax genus:Corvus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Alca specificepithet:torda" ; Times: 5
+	Query: "(Ceiba AND Puerto Rico)" ; Times: 5
+	Query: "genus:Neophema specificepithet:pulchella" ; Times: 6
+	Query: "genus:Vireo class:Aves year &gt;= 1901 year &lt;= 1901 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "los gatos genus:athene" ; Times: 1
+	Query: "passenger pigeon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "16522 class:Aves" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 2
+	Query: "anseranas skeleton" ; Times: 5
+	Query: "genus:Opisthocomus specificepithet:hoazin" ; Times: 5
+	Query: "Psittacula roseata" ; Times: 5
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 1
+	Query: "locality:Ceiba stateprovince:&#34;Puerto Rico&#34;" ; Times: 2
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 2
+	Query: "Oceanodroma macrodactyla" ; Times: 4
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "coturnicops hastissue:1" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax institutioncode:NCSM hastissue:1" ; Times: 2
+	Query: "16171" ; Times: 1
+	Query: "genus:Amazona specificepithet:viridigenalis" ; Times: 5
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 5
+	Query: "vulture wing" ; Times: 2
+	Query: "class:Aves institutioncode:NCSM hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 5
+	Query: "Aechmophorus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1284 download events in this period)
+Total number of records downloaded: 155
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 21
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-12 ; Times: 4
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 5
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "specificepithet:corax genus:corvus stateprovince:&#34;Carolina&#34; year &gt;= 1850 year &lt;= 2018" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Passerculus sandwichensis princeps" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "pycnonotus plumosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Passerculus princeps" ; Times: 1
+	Query: "Aves institutioncode:NCSM hassex:1 hasmass:1" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "specificepithet:sandvicensis genus:Branta" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "Ficedula narcissina" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "psaltria hastissue:1" ; Times: 1
+	Query: "Aechmophorus hastissue:1" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax hastissue:1" ; Times: 1
+
+
+End of report.
