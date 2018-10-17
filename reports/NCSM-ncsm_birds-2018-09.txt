@@ -1,0 +1,116 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 325
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 25
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-05 ; Times: 6
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-23 ; Times: 7
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-20 ; Times: 6
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 1
+	Query: "ara macao" ; Times: 8
+	Query: "monk parakeet" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "calypte costa year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "catalognumber:1732 institutioncode:NCSM" ; Times: 1
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 2
+	Query: "egg mississippi" ; Times: 1
+	Query: "specificepithet:castanea genus:Dendroica stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "sterna dougallii (virginia OR carolina OR jersey)" ; Times: 1
+	Query: "Leiothrix lutea vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:cryptoleucus genus:corvus hastissue:1" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:albiloris genus:oriolus" ; Times: 1
+	Query: "Psittacula nestling" ; Times: 1
+	Query: "gbifdatasetid:474cd7e1-7620-454f-828c-24907a15d6a7" ; Times: 1
+	Query: "specificepithet:peregrina genus:Vermivora stateprovince:&#34;North carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 846 download events in this period)
+Total number of records downloaded: 854
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "RED BELLIED WOODPECKER" ; Times: 1
+	Query: "calypte costa year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "HAIRY WOODPECKER" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "Melopsittacus" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+
+
+End of report.
