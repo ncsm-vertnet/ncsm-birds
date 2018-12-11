@@ -1,0 +1,174 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 306
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 1
+	Country: United States ; Times: 55
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 35
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-09 ; Times: 37
+	Date: 2018-11-08 ; Times: 7
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-06 ; Times: 19
+	Date: 2018-11-05 ; Times: 7
+	Date: 2018-11-04 ; Times: 7
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-01 ; Times: 4
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-26 ; Times: 4
+	Date: 2018-11-14 ; Times: 3
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-30 ; Times: 2
+	Date: 2018-11-12 ; Times: 3
+	Date: 2018-11-21 ; Times: 2
+	Date: 2018-11-28 ; Times: 1
+	Date: 2018-11-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aureoventris genus:Pheucticus hastissue:1" ; Times: 3
+	Query: "catalognumber:23628" ; Times: 1
+	Query: "Collocalia isonota" ; Times: 1
+	Query: "sex:Male catalognumber:10715 institutioncode:NCSM" ; Times: 2
+	Query: "NCSM 10716" ; Times: 1
+	Query: "NCSM 10715" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;California&#34; hastissue:1" ; Times: 3
+	Query: "Aratinga acuticaudata hastissue:1" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "specificepithet:gramineus genus:Pooecetes year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius class:aves year &gt;= 1907 year &lt;= 1907 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "baroli vntype:specimen genus:puffinus" ; Times: 2
+	Query: "scarlet macaw" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 4
+	Query: "minnesota Picoides pubescens" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "elf" ; Times: 3
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 1
+	Query: "Aerodramus whiteheadi" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "specificepithet:mississippiensis genus:Ictinia hastissue:1" ; Times: 3
+	Query: "specificepithet:maritimus genus:ammodramus year &gt;= 1985 hastissue:1" ; Times: 2
+	Query: "NCSM 10745" ; Times: 1
+	Query: "minnesota Sitta carolinensis" ; Times: 1
+	Query: "parus atricapillus Michigan" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Oregon&#34; hastissue:1" ; Times: 2
+	Query: "NCSM 10901" ; Times: 1
+	Query: "catalognumber:12480" ; Times: 2
+	Query: "eupetomena macroura" ; Times: 34
+	Query: "catalognumber:10715 institutioncode:NCSM" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Aerodramus" ; Times: 2
+	Query: "NCSM 10961" ; Times: 1
+	Query: "hofmann" ; Times: 1
+	Query: "specificepithet:bewickii stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:antarctica genus:Pygoscelis" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "genus:Pheucticus class:aves year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "NCSM 10901`" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 4
+	Query: "aerodramus palawanensis" ; Times: 1
+	Query: "minnesota Phalacrocorax auritus" ; Times: 1
+	Query: "specificepithet:pacificus genus:Puffinus hastissue:1" ; Times: 1
+	Query: "aerodramus palawan" ; Times: 1
+	Query: "NCSM 3906" ; Times: 1
+	Query: "genus:Xanthocephalus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:tyrannus genus:Tyrannus year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "specificepithet:maritimus genus:ammodramus hastissue:1" ; Times: 1
+	Query: "american robin 330" ; Times: 1
+	Query: "genus:leiothrix hastissue:1" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius class:aves year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "baroli vntype:specimen genus:puffinus preparations:skin" ; Times: 1
+	Query: "catalognumber:10901 institutioncode:NCSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1719 download events in this period)
+Total number of records downloaded: 1012
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 24
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 3
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-03 ; Times: 3
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-25 ; Times: 2
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 5
+	Date: 2018-11-14 ; Times: 3
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-29 ; Times: 2
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "northern fulmar" ; Times: 1
+	Query: "junco hyemalis vntype:specimen" ; Times: 1
+	Query: "specificepithet:australis genus:Leucosticte" ; Times: 1
+	Query: "yellow-billed cuckoo" ; Times: 1
+	Query: "genus:Prunella" ; Times: 2
+	Query: "grus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:mississippiensis genus:Ictinia hastissue:1" ; Times: 1
+	Query: "Treron curvirostra" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "parus atricapillus Michigan" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Oregon&#34; hastissue:1" ; Times: 1
+	Query: "Corvus enca" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Misiones&#34; country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "Carduelis chloris" ; Times: 1
+	Query: "specificepithet:antarctica genus:Pygoscelis" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "specificepithet:aureoventris genus:Pheucticus" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "specificepithet:bewickii stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 2
+
+
+End of report.
