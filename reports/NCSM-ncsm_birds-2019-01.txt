@@ -1,0 +1,182 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 867
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 48
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 8
+	Date: 2019-01-15 ; Times: 6
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-17 ; Times: 11
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 12
+	Date: 2019-01-12 ; Times: 3
+	Date: 2019-01-13 ; Times: 9
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-08 ; Times: 5
+	Date: 2019-01-09 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrapicus varius sex:female hastissue:1" ; Times: 4
+	Query: "Neochen jubata" ; Times: 1
+	Query: "Amazona leucocephala caymanensis" ; Times: 1
+	Query: "specificepithet:asio institutioncode:NCSM" ; Times: 2
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "Coccothraustes vespertinus AND mass" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2010 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:otus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Rhipidura rufifrons hastissue:1" ; Times: 2
+	Query: "eastern screech owl hastissue:1" ; Times: 1
+	Query: "specificepithet:erythropthalmus genus:Coccyzus sex:female year &gt;= 2001 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Nonnula ruficapilla" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "aplonis mariana" ; Times: 2
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "Coeligena inca" ; Times: 2
+	Query: "Chloephaga melanoptera" ; Times: 1
+	Query: "genus:Amazona hastissue:1" ; Times: 6
+	Query: "Aratinga nenday" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Eubucco bourcierii" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Pionus menstruus" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Lophonetta specularioides" ; Times: 1
+	Query: "Nothoprocta ornata" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "Buteogallus meridionalis" ; Times: 1
+	Query: "Campephilus pollens" ; Times: 1
+	Query: "Veniliornis kirkii" ; Times: 1
+	Query: "Pelagodroma marina" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "western screech owl hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:474cd7e1-7620-454f-828c-24907a15d6a7" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "brown-capped rosy finch" ; Times: 1
+	Query: "Cuban tody" ; Times: 3
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "specificepithet:nuttalli genus:pica year &gt;= 1997 year &lt;= 2001 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanodroma microsoma" ; Times: 1
+	Query: "ncsm fulmar" ; Times: 2
+	Query: "Ara militaris" ; Times: 1
+	Query: "Conopophaga aurita" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 2
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Guadalupe Wren" ; Times: 1
+	Query: "locality: big flats stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:erythropthalmus genus:Coccyzus sex:female year &gt;= 2004 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Sarkidiornis sylvicola" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "ninox japonica" ; Times: 1
+	Query: "genus:fulmarus institutioncode:NCSM" ; Times: 2
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "brown-capped rosy-finch" ; Times: 2
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Nonnula rubecula" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "15059" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 962 download events in this period)
+Total number of records downloaded: 457
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-01 ; Times: 3
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 4
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrapicus varius sex:female hastissue:1" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "ncsm fulmar" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "genus:fulmarus institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:sula genus:Sula stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "sphyrapicus ruber sex:female hastissue:1" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flava genus:Piranga year &gt;= 1975 year &lt;= 2018" ; Times: 1
+
+
+End of report.
