@@ -1,0 +1,151 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 372
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 55
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 15
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-22 ; Times: 4
+	Date: 2019-02-15 ; Times: 5
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-08 ; Times: 14
+	Date: 2019-02-28 ; Times: 7
+	Date: 2019-02-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterodroma arminjoniana" ; Times: 1
+	Query: "Western Screech Owl hastissue:1" ; Times: 1
+	Query: "phytotoma rutila" ; Times: 1
+	Query: "NCSM 3027" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 2
+	Query: "aleutian tern" ; Times: 2
+	Query: "Cephalopterus penduliger" ; Times: 2
+	Query: "rhynchotus" ; Times: 1
+	Query: "Amazona auropalliata" ; Times: 2
+	Query: "Psittacula nestling" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurea genus:aratinga (skeleton)" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "NCSM 19691" ; Times: 1
+	Query: "specificepithet:luconensis genus:prioniturus" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "rhynchops niger" ; Times: 2
+	Query: "Procellaria westlandica" ; Times: 2
+	Query: "specificepithet:pavonina genus:Balearica" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "passenger pigeon" ; Times: 3
+	Query: "specificepithet:pacificus genus:apus" ; Times: 2
+	Query: "lepidocolaptes souleyetti" ; Times: 2
+	Query: "Melanitta americana" ; Times: 1
+	Query: "Crax globulosa" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "swallow-tailed kite" ; Times: 3
+	Query: "montezuma quail" ; Times: 2
+	Query: "Numenius borealis" ; Times: 2
+	Query: "NCSM-16814" ; Times: 2
+	Query: "Pterodroma longirostris" ; Times: 2
+	Query: "catalognumber:12233 institutioncode:NCSM" ; Times: 2
+	Query: "Amazona tucumana" ; Times: 2
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 2
+	Query: "western screech owl hastissue:1" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 2
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "passenger pigeon vntype:specimen" ; Times: 2
+	Query: "yellow-billed cuckoo hastissue:1" ; Times: 1
+	Query: "sungrebe" ; Times: 1
+	Query: "Eastern screech owl hastissue:1" ; Times: 1
+	Query: "specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "Cleptornis marchei" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1227 download events in this period)
+Total number of records downloaded: 383
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: United States ; Times: 15
+	Country: Israel ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-13 ; Times: 8
+	Date: 2019-02-11 ; Times: 5
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+	Date: 2019-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "Dendroica OR Setophaga AND tigrina AND massing" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:luconensis genus:prioniturus" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "(Aphelocoma) year &gt;= 1985 year &lt;= 1990" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "Lamprolaima rhami" ; Times: 1
+	Query: "specificepithet:caerulea interfusa genus:Passerina" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "western screech owl hastissue:1" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "vntype:specimen specificepithet:militaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Eastern screech owl hastissue:1" ; Times: 1
+	Query: "specificepithet:pachyrhyncha genus:Rhynchopsitta country:&#34;United States&#34;" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
