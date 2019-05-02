@@ -1,0 +1,157 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 92
+	Country: Russia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 2
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 7
+	Date: 2019-03-06 ; Times: 45
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-15 ; Times: 3
+	Date: 2019-03-01 ; Times: 5
+	Date: 2019-03-07 ; Times: 14
+	Date: 2019-03-10 ; Times: 5
+	Date: 2019-03-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "15384" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Maine" ; Times: 4
+	Query: "specificepithet:trichas year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:torquatus genus:rallus" ; Times: 1
+	Query: "specificepithet:bewickii genus:thryomanes hastissue:1" ; Times: 2
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "eudyptes pachyrhynchus" ; Times: 2
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Maryland" ; Times: 4
+	Query: "Aramus guarauna year &gt; 1990 NOT clo" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "23317" ; Times: 1
+	Query: "vntype:specimen genus:Anous hastissue:1" ; Times: 1
+	Query: "eastern-screech owl hastissue:1" ; Times: 1
+	Query: "Texas Cooperative Wildlife Collection" ; Times: 1
+	Query: "Cacatua galerita galerita" ; Times: 2
+	Query: "genus:Aechmophorus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Quiscalus major hastissue:1" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:superciliaris genus:Scytalopus hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "puerto rican bullfinch" ; Times: 1
+	Query: "Haliaeetus leucocephalus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Virginia" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:South Dakota" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Washington" ; Times: 4
+	Query: "Crax globulosa" ; Times: 2
+	Query: "thinocorus orbignyianus year &gt; 1985" ; Times: 1
+	Query: "genus:Catharus class:Aves catalognumber:15384" ; Times: 1
+	Query: "montezuma quail" ; Times: 14
+	Query: "anhinga anhinga year &gt; 1990 NOT clo" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Massachusetts" ; Times: 4
+	Query: "muscovy duck" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Enicognathus leptorhynchus" ; Times: 2
+	Query: "vntype:specimen genus:Rynchops hastissue:1" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:South Carolina" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Iowa" ; Times: 4
+	Query: "indigo bunting ohio" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "locality:peat stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:North Carolina" ; Times: 4
+	Query: "Procellaria parkinsoni" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "Amazona ochrocephala tresmariae" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1281 download events in this period)
+Total number of records downloaded: 229
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Canada ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corvus caurinus" ; Times: 1
+	Query: "Aethopyga flagrans" ; Times: 1
+	Query: "specificepithet:philippensis genus:rallus" ; Times: 1
+	Query: "specificepithet:torquatus genus:rallus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "Aethopyga shelleyi" ; Times: 1
+	Query: "eastern-screech owl hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "genus:Aratinga hassex:1 hastissue:1" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "genus:Amazona hassex:1 hastissue:1" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "Enicognathus leptorhynchus" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+
+
+End of report.
