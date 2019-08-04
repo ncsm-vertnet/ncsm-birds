@@ -1,0 +1,195 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 588
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: Gambia ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: Nepal ; Times: 4
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 33
+	Country: Sweden ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 60
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 7
+	Date: 2019-07-19 ; Times: 7
+	Date: 2019-07-08 ; Times: 20
+	Date: 2019-07-12 ; Times: 10
+	Date: 2019-07-13 ; Times: 2
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-16 ; Times: 3
+	Date: 2019-07-17 ; Times: 3
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 10
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-09 ; Times: 10
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-30 ; Times: 6
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 6
+	Date: 2019-07-04 ; Times: 13
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus newelli" ; Times: 1
+	Query: "strix nebulosa stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "pterodroma hastissue:1" ; Times: 3
+	Query: "Pelecanus occidentalis south carolina" ; Times: 1
+	Query: "procellaria parkinsoni" ; Times: 9
+	Query: "specificepithet:coronata genus:Dendroica stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "genus:Lamprolaima specificepithet:rhami" ; Times: 1
+	Query: "genus:Pagodroma specificepithet:nivea" ; Times: 1
+	Query: "specificepithet:atricapilla genus:Zonotrichia hastissue:1" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "pelecanoides hastissue:1" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "pachyptila alter" ; Times: 3
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "eudyptes pachyrhynchus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "specificepithet:livia genus:columba institutioncode:NCSM" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1970 year &lt;= 2019 palmer" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Prioniturus luconensis" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "orange-crowned warbler hastissue:1" ; Times: 3
+	Query: "Cyanoliseus patagonus" ; Times: 1
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "genus:Chloroceryle specificepithet:aenea" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:pusilla genus:Wilsonia stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Hooded Pitta" ; Times: 3
+	Query: "specificepithet:nuchalis genus:Sphyrapicus stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "daption capense year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:parus stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Pheucticus aureoventris mappable:1" ; Times: 1
+	Query: "yellow-billed magpie hastissue:1" ; Times: 1
+	Query: "yellow-billed magpie year &gt;= 1950 hastissue:1" ; Times: 1
+	Query: "Oceanites oceanicus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "vntype:specimen genus:Eudromia preparations:skin AND (NOT immature NOT chick) institutioncode:NCSM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "genus:Aethia specificepithet:pygmaea" ; Times: 1
+	Query: "county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:NCSM" ; Times: 1
+	Query: "pelagodroma marina year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "DSL" ; Times: 1
+	Query: "genus:Pericrocotus specificepithet:cinnamomeus" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Pelecanoides falkland" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Portuguesa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tachybaptus specificepithet:dominicus" ; Times: 1
+	Query: "Aerodramus whiteheadi" ; Times: 1
+	Query: "daption hastissue:1" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "procellaria westlandica" ; Times: 2
+	Query: "Amazona tucumana" ; Times: 1
+	Query: "specificepithet:sclateri genus:Asthenes" ; Times: 1
+	Query: "royal tern skeleton" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:sclateri genus:Asthenes" ; Times: 2
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;North Carolina&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;North Carolina&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "quiscalus major hastissue:1" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:borealis class:aves stateprovince:&#34;alaska&#34; month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "genus:Nandayus specificepithet:nenday" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "genus:Protonotaria specificepithet:citrea" ; Times: 1
+	Query: "pelagodroma year &gt;= 1980 year &lt;= 2019" ; Times: 2
+	Query: "Aratinga nenday" ; Times: 1
+	Query: "gbifdatasetid:474cd7e1-7620-454f-828c-24907a15d6a7" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Apure&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:arundinaceus genus:Acrocephalus year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "Boat-tailed Grackle hastissue:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "pachyptila desolata year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 985 download events in this period)
+Total number of records downloaded: 427
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 5
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 2
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Patagona gigas" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "specificepithet:collaris genus:trogon" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:iliaca genus:Passerella stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:griseicapillus genus:Sittasomus class:Aves" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "phoenicopterus chilensis" ; Times: 1
+	Query: "specificepithet:pusilla genus:Wilsonia stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Sphyrapicus stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:parus stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;montana&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica stateprovince:&#34;washington&#34; year &gt;= 1980 month &gt;= 7 month &lt;= 8" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Portuguesa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "upupa epops" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Apure&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
