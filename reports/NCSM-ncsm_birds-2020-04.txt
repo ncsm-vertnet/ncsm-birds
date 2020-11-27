@@ -1,0 +1,237 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 493
+Number of records retrieved in searches: 2719
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 29
+	Country: Romania ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 443
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-02 ; Times: 5
+	Date: 2020-04-23 ; Times: 4
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-17 ; Times: 9
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 43
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-07 ; Times: 154
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-24 ; Times: 5
+	Date: 2020-04-25 ; Times: 6
+	Date: 2020-04-21 ; Times: 125
+	Date: 2020-04-08 ; Times: 48
+	Date: 2020-04-03 ; Times: 68
+	Date: 2020-04-27 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "Amazilia beryllina" ; Times: 3
+	Query: "Tragopan satyra" ; Times: 1
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "genus:Melopsittacus hastissue:1" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "specificepithet:clarkii genus:aechmophorus (skeleton)" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "Turdus naumanni" ; Times: 15
+	Query: "vntype:specimen specificepithet:castro country:&#34;united states&#34;" ; Times: 3
+	Query: "rallus striatus" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Mountain Quail wing" ; Times: 1
+	Query: "Phaetusa simplex" ; Times: 2
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "specificepithet:marinus genus:larus county:&#34;currituck&#34;" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Stercorarius maccormicki" ; Times: 2
+	Query: "Anas diazi" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "specificepithet:major genus:quiscalus county:&#34;currituck&#34;" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 5
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "grey owl" ; Times: 6
+	Query: "22916" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "vntype:specimen class:Aves locality:Augusta year &gt;= 2003 year &lt;= 2003 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Aerodramus brevirostris" ; Times: 3
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "Phoenicurus auroreus" ; Times: 9
+	Query: "Todus todus" ; Times: 3
+	Query: "Oceanodroma castro" ; Times: 4
+	Query: "genus:quiscalus county:&#34;currituck&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 3
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Anas penelope" ; Times: 11
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "locality:&#34;half island&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Emberiza fucata" ; Times: 8
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "coturnix chinensis" ; Times: 1
+	Query: "Apus pacificus" ; Times: 6
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "oceanites oceanicus year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Todus angustirostris" ; Times: 4
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "specificepithet:hottentottus genus:dicrurus country:&#34;philippines&#34;" ; Times: 3
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "Chalcophaps stephani" ; Times: 6
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Dicaeum trigonostigma" ; Times: 4
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "vntype:specimen specificepithet:livia genus:Columba preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "Egretta intermedia" ; Times: 9
+	Query: "Tyto capensis" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "oceanites oceanicus year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "Anas falcata" ; Times: 13
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Hypsipetes philippinus" ; Times: 4
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "Anas platyrhynchos sex:male AND (diazi)" ; Times: 1
+	Query: "Fregata aquila" ; Times: 3
+	Query: "chloropsis palawanensis" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Eophona migratoria" ; Times: 8
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "specificepithet:narcissina country:&#34;philippines&#34;" ; Times: 1
+	Query: "pterodroma leucoptera year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Lophonetta specularioides" ; Times: 6
+	Query: "Anas formosa" ; Times: 13
+	Query: "honeybee" ; Times: 1
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "Buteogallus meridionalis" ; Times: 4
+	Query: "pterodroma arminjoniana" ; Times: 1
+	Query: "Larus vegae" ; Times: 3
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Buceros bicornis" ; Times: 1
+	Query: "locality:half island stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:cirrhata genus:fratercula year &gt;= 1983 year &lt;= 1987" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "specificepithet:marinus county:&#34;currituck&#34;" ; Times: 3
+	Query: "Grus antigone" ; Times: 6
+	Query: "stateprovince:&#34;luzon&#34; institutioncode:NCSM" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 14
+	Query: "Rhea americana" ; Times: 3
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Narcissus" ; Times: 1
+	Query: "Netta rufina" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1171 download events in this period)
+Total number of records downloaded: 767
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-07 ; Times: 3
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-11 ; Times: 3
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-15 ; Times: 5
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 2
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tyto capensis" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucocephalus genus:Haliaeetus preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Fulica preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "vntype:specimen specificepithet:livia genus:Columba preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "painted bunting vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gallinago megala" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "vntype:specimen specificepithet:rustica genus:Hirundo preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1980 year &lt;= 2020" ; Times: 1
+
+
+End of report.
