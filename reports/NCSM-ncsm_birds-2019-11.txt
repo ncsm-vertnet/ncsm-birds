@@ -1,0 +1,213 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 396
+Number of records retrieved in searches: 1608
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Turkey ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 372
+	Country: United Kingdom ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 9
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 44
+	Date: 2019-11-09 ; Times: 43
+	Date: 2019-11-06 ; Times: 28
+	Date: 2019-11-07 ; Times: 109
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-16 ; Times: 63
+	Date: 2019-11-11 ; Times: 5
+	Date: 2019-11-03 ; Times: 3
+	Date: 2019-11-13 ; Times: 25
+	Date: 2019-11-01 ; Times: 3
+	Date: 2019-11-15 ; Times: 19
+	Date: 2019-11-14 ; Times: 15
+	Date: 2019-11-10 ; Times: 8
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pusilla catalognumber:20146" ; Times: 1
+	Query: "Charadrius melodus 2005" ; Times: 4
+	Query: "Cyornis banyumas" ; Times: 2
+	Query: "Caprimulgus carolinensis 1975" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "genus:cistothorus hastissue:1" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "18819" ; Times: 1
+	Query: "Sitta pusilla vntype:specimen year &gt;= 1990" ; Times: 2
+	Query: "class:aves catalognumber:20146 year:2003 month:6" ; Times: 8
+	Query: "whooping crane" ; Times: 2
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "cholera" ; Times: 1
+	Query: "yellow rail" ; Times: 4
+	Query: "white-breasted nuthatch hastissue:1" ; Times: 3
+	Query: "Mycteria americana 1972" ; Times: 4
+	Query: "Mycteria americana 1976" ; Times: 4
+	Query: "Sitta pusilla vntype:specimen year &gt;= 1985" ; Times: 1
+	Query: "Aleutian tern" ; Times: 2
+	Query: "specificepithet:tolmiei class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Charadrius melodus 1998" ; Times: 4
+	Query: "Coccyzus americanus 1998" ; Times: 4
+	Query: "Coccyzus americanus 1999" ; Times: 4
+	Query: "Coccyzus americanus 1996" ; Times: 4
+	Query: "Coccyzus americanus 1997" ; Times: 4
+	Query: "Coccyzus americanus 1994" ; Times: 4
+	Query: "Coccyzus americanus 1995" ; Times: 4
+	Query: "Coccyzus americanus 1992" ; Times: 4
+	Query: "Coccyzus americanus 1993" ; Times: 4
+	Query: "Coccyzus americanus 1990" ; Times: 4
+	Query: "specificepithet:decumanus genus:psarocolius country:&#34;Venezuela&#34;" ; Times: 6
+	Query: "yellow-vented bulbul" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "hoatzin" ; Times: 1
+	Query: "Pterodroma hasitata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Coccyzus americanus 1981" ; Times: 4
+	Query: "Coccyzus americanus 1980" ; Times: 4
+	Query: "Coccyzus americanus 1983" ; Times: 4
+	Query: "Coccyzus americanus 1982" ; Times: 4
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "Coccyzus americanus 1986" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "specificepithet:hyemalis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Brachyramphus marmoratus 2017" ; Times: 5
+	Query: "Coccyzus americanus 1978" ; Times: 4
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "Coccyzus americanus 2008" ; Times: 4
+	Query: "Sharp-tailed grouse" ; Times: 2
+	Query: "Mycteria americana 1981" ; Times: 4
+	Query: "Coccyzus americanus 1976" ; Times: 4
+	Query: "Mycteria americana 1984" ; Times: 4
+	Query: "Aphelocoma coerulescens 2017" ; Times: 10
+	Query: "Aphelocoma coerulescens 2016" ; Times: 8
+	Query: "Accipiter gularis" ; Times: 1
+	Query: "Aphelocoma coerulescens 1975" ; Times: 6
+	Query: "Aphelocoma coerulescens 1976" ; Times: 6
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "skeletons birds" ; Times: 1
+	Query: "Aphelocoma coerulescens 1979" ; Times: 6
+	Query: "Thinocorus orbignyianus" ; Times: 1
+	Query: "Coccyzus americanus 2001" ; Times: 4
+	Query: "flammulated owl" ; Times: 2
+	Query: "Fulica alai" ; Times: 1
+	Query: "class:aves catalognumber:20146 year:2003 month:6 day:20" ; Times: 8
+	Query: "Aphelocoma coerulescens 1988" ; Times: 6
+	Query: "passenger pigeon" ; Times: 4
+	Query: "Aphelocoma coerulescens 1980" ; Times: 6
+	Query: "Aphelocoma coerulescens 1982" ; Times: 6
+	Query: "Piping plover" ; Times: 4
+	Query: "Aphelocoma coerulescens 1985" ; Times: 6
+	Query: "Brachyramphus marmoratus 1989" ; Times: 5
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "Coccyzus americanus 2006" ; Times: 4
+	Query: "specificepithet:nuchalis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:varius class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 12
+	Query: "specificepithet:ustulatus class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "Coccyzus americanus 2010" ; Times: 4
+	Query: "Coccyzus americanus 2011" ; Times: 4
+	Query: "aviceda philippines" ; Times: 1
+	Query: "Coccyzus americanus 2009" ; Times: 4
+	Query: "Brachyramphus marmoratus 1987" ; Times: 5
+	Query: "specificepithet:celata class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Coccyzus americanus 2000" ; Times: 4
+	Query: "Coccyzus americanus 2003" ; Times: 4
+	Query: "Coccyzus americanus 2002" ; Times: 4
+	Query: "16051" ; Times: 1
+	Query: "Coccyzus americanus 2004" ; Times: 4
+	Query: "16053" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:pusilla class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 14
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "Nothoprocta ornata year &gt; 1990" ; Times: 2
+	Query: "Mycteria americana 2017" ; Times: 4
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "specificepithet:hyemalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Mycteria americana 2012" ; Times: 4
+	Query: "genus:Pelecanoides hastissue:1" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 4
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "19720" ; Times: 2
+	Query: "Charadrius melodus 1976" ; Times: 4
+	Query: "specificepithet:coronata class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Mycteria americana 2009" ; Times: 4
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "class:Aves county:&#34;Roanoke&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1367 download events in this period)
+Total number of records downloaded: 587
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "whooping crane" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "genus:Pelecanoides hastissue:1" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
