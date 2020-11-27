@@ -1,0 +1,179 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 668
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 7
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-09 ; Times: 16
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-06 ; Times: 6
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 9
+	Date: 2020-01-23 ; Times: 10
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 12
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-10 ; Times: 10
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 3
+	Query: "specificepithet:gigas genus:Patagona country:&#34;Argentina&#34; hastissue:1" ; Times: 1
+	Query: "grus antigone" ; Times: 1
+	Query: "Melanitta fusca hastissue:1" ; Times: 1
+	Query: "specificepithet:coronata class:Aves stateprovince:&#34;Minnesota&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "red-crested pochard" ; Times: 1
+	Query: "catalognumber:21567 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 1985 hastissue:1" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:NCSM" ; Times: 1
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "vntype:specimen specificepithet:henslowii class:aves stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Dulus dominicus year &gt; 1995" ; Times: 1
+	Query: "UNCW" ; Times: 1
+	Query: "catalognumber:21569 institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:gigas genus:Patagona country:&#34;Argentina&#34;" ; Times: 2
+	Query: "specificepithet:tenuirostris class:aves county:&#34;humboldt&#34;" ; Times: 1
+	Query: "specificepithet:gigas genus:Patagona country:&#34;Argentina&#34; year &gt;= 1996 year &lt;= 1996" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Oceanites oceanicus hastissue:1" ; Times: 2
+	Query: "119592" ; Times: 1
+	Query: "specificepithet:gigas genus:Patagona country:&#34;Argentina&#34; year &gt;= 1996 year &lt;= 1996 hastissue:1" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "carolina wren minnesota" ; Times: 1
+	Query: "Dusky Thrush" ; Times: 1
+	Query: "eskimo curlew" ; Times: 7
+	Query: "specificepithet:henslowii class:aves stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo class:Aves year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "apteryx" ; Times: 1
+	Query: "genus:Passerculus stateprovince:&#34;California&#34; year &gt;= 1975 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma class:Aves stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mexico Spizella passerina skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "common poorwill" ; Times: 3
+	Query: "Hooded pitta" ; Times: 3
+	Query: "specificepithet:coronata class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "specificepithet:elegans county:&#34;ventura&#34;" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:21499 institutioncode:NCSM" ; Times: 2
+	Query: "Garganey" ; Times: 2
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:fasciata genus:rallina country:&#34;philippines&#34;" ; Times: 2
+	Query: "specificepithet:longirostris genus:Rallus month &gt;= 5 month &lt;= 9 hastissue:1" ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:varius class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "specificepithet:asio genus:otus institutioncode:NCSM" ; Times: 2
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 3
+	Query: "genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:19214 institutioncode:NCSM" ; Times: 2
+	Query: "black-bellied whistling-duck" ; Times: 1
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "genus:Zonotrichia year &gt;= 2000 year &lt;= 2019 institutioncode:NCSM" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "vireo griseus hastissue:1" ; Times: 1
+	Query: "Neochen" ; Times: 1
+	Query: "catalognumber:1909 institutioncode:NCSM" ; Times: 1
+	Query: "genus:ptychoramphus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "melanerpes portoricensis" ; Times: 2
+	Query: "catalognumber:18639 institutioncode:NCSM" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1584 download events in this period)
+Total number of records downloaded: 1313
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Mexico ; Times: 4
+	Country: Germany ; Times: 2
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-28 ; Times: 6
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "enicognathus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:henslowii class:aves stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 1990 hastissue:1" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "eskimo curlew" ; Times: 1
+	Query: "class:aves county:&#34;cochise&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "genus:Passerculus stateprovince:&#34;California&#34; year &gt;= 1975 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "specificepithet:asio genus:otus institutioncode:NCSM" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "rainier" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 1988 hastissue:1" ; Times: 1
+
+
+End of report.
