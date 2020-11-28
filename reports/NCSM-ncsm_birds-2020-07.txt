@@ -1,0 +1,128 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 283
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 17
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 28
+	Country: Ireland ; Times: 2
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 5
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-03 ; Times: 8
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Larus vegae united states" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Squamata hybrid" ; Times: 1
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "hirundapus celebensis" ; Times: 2
+	Query: "specificepithet:californicus genus:Larus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:longirostra genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:pygmaeum genus:dicaeum country:&#34;philippines&#34;" ; Times: 2
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "specificepithet:flagrans genus:aethopyga country:&#34;philippines&#34;" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:glacialis genus:fulmarus preparations:fluid" ; Times: 1
+	Query: "Aerodramus whiteheadi" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 2
+	Query: "specificepithet:hypoleucum genus:dicaeum country:&#34;philippines&#34;" ; Times: 4
+	Query: "31031" ; Times: 1
+	Query: "Audubon year &gt;= 1820 year &lt;= 1850" ; Times: 2
+	Query: "Corvus cryptoleucus hastissue:1" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "specificepithet:viridifacies country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis locality:Onion" ; Times: 1
+	Query: "specificepithet:glacialis genus:fulmarus preparations:Fluid" ; Times: 1
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 3
+	Query: "HIRUNDAPUS CELEBENSIS" ; Times: 1
+	Query: "Townsend AND 1889" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "locality:Cape Lookout year &gt;= 1900 year &lt;= 1925" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bicolor genus:dicaeum country:&#34;philippines&#34;" ; Times: 3
+	Query: "genus:Arachnothera country:&#34;philippines&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 940 download events in this period)
+Total number of records downloaded: 238
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 7
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
