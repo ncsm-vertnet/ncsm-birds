@@ -1,0 +1,151 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 486
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 28
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-23 ; Times: 3
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-18 ; Times: 7
+	Date: 2020-09-19 ; Times: 3
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "Mangrove Cuckoo" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "Myiarchus antillarum" ; Times: 2
+	Query: "Tympanuchus phasianellus hastissue:1" ; Times: 1
+	Query: "87306" ; Times: 3
+	Query: "vntype:specimen genus:Callonetta class:Aves" ; Times: 1
+	Query: "specificepithet:cinnamomea genus:terpsiphone country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen genus:calyptomena skeleton" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 2
+	Query: "Aerodramus whiteheadi" ; Times: 1
+	Query: "genus:Fulmarus county:&#34;Dare&#34; year &gt;= 1987 year &lt;= 1987 institutioncode:NCSM" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Colorado&#34; year &gt;= 1984 year &lt;= 1986 institutioncode:NCSM" ; Times: 1
+	Query: "Aerodramus brevirostris" ; Times: 1
+	Query: "specificepithet:longirostra genus:arachnothera country:&#34;philippines&#34;" ; Times: 2
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "common moorhen" ; Times: 1
+	Query: "genus:Chloropsis hastissue:1" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1988 year &lt;= 1988 month &gt;= 7 month &lt;= 9 institutioncode:NCSM" ; Times: 1
+	Query: "thick-billed murre" ; Times: 1
+	Query: "Aviceda jerdoni" ; Times: 2
+	Query: "class:AVES stateprovince:&#34;Arizona&#34; year &gt;= 1984 year &lt;= 1989 institutioncode:NCSM" ; Times: 1
+	Query: "Pygoscelis adeliae hastissue:1" ; Times: 2
+	Query: "Lark Bunting eggs" ; Times: 1
+	Query: "hirundapus celebensis" ; Times: 1
+	Query: "Aviceda jerdoni jerdoni" ; Times: 1
+	Query: "Collocalia isonota" ; Times: 1
+	Query: "specificepithet:caudacutus genus:Ammodramus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:Aves county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1988 year &lt;= 1988 month &gt;= 7 month &lt;= 9 institutioncode:NCSM" ; Times: 1
+	Query: "specificepithet:cryptoleucus genus:Corvus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 976 download events in this period)
+Total number of records downloaded: 1758
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-25 ; Times: 8
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 7
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 6
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Arizona&#34; year &gt;= 1984 year &lt;= 1989 institutioncode:NCSM" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 2
+	Query: "APUS apus" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 2
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "genus:Melanerpes year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Aerodramus whiteheadi" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "specificepithet:caudacutus genus:Ammodramus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus" ; Times: 1
+	Query: "genus:Chloropsis hastissue:1" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "Collocalia esculenta" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "Aerodramus brevirostris" ; Times: 1
+	Query: "hirundapus celebensis" ; Times: 1
+	Query: "APUS pacificus" ; Times: 1
+	Query: "Collocalia troglodytes" ; Times: 1
+	Query: "Collocalia isonota" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "class:Aves county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34; year &gt;= 1988 year &lt;= 1988 month &gt;= 7 month &lt;= 9 institutioncode:NCSM" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta month &gt;= 8 month &lt;= 9 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+
+
+End of report.
