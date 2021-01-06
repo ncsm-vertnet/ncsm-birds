@@ -1,0 +1,139 @@
+Report for Institution Code NCSM, Resource ncsm_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 779
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 37
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: United Kingdom ; Times: 41
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-04 ; Times: 29
+	Date: 2020-12-20 ; Times: 8
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 11
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-18 ; Times: 5
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-10 ; Times: 4
+	Date: 2020-12-11 ; Times: 5
+	Date: 2020-12-05 ; Times: 3
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Apus pacificus" ; Times: 2
+	Query: "Cacatua alba preparations:skin sex:female" ; Times: 1
+	Query: "catalognumber:8753 institutioncode:NCSM" ; Times: 2
+	Query: "Pterodroma hasitata" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 2
+	Query: "black-throated blue warbler washington" ; Times: 1
+	Query: "catalognumber:8221 institutioncode:NCSM" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "Emberiza fucata" ; Times: 2
+	Query: "Eophona migratoria" ; Times: 1
+	Query: "Todus angustirostris" ; Times: 1
+	Query: "Cacatua alba preparations:skin" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "genus:coturnicops hastissue:1" ; Times: 3
+	Query: "Vertibrate" ; Times: 1
+	Query: "Aratinga nenday" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "genus:Plegadis catalognumber:23845 institutioncode:NCSM" ; Times: 1
+	Query: "Thinocorus orbignyianus" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 4
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "Buteo jamaicensis NC Museum of Natural Sciences" ; Times: 1
+	Query: "Anas formosa" ; Times: 2
+	Query: "Aerodramus brevirostris" ; Times: 2
+	Query: "Hypsipetes philippinus" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Larus vegae" ; Times: 1
+	Query: "Todus todus" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:fasciolata genus:locustella country:&#34;philippines&#34;" ; Times: 1
+	Query: "Lark Bunting eggs" ; Times: 1
+	Query: "colaptes auratus x cafer" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 2
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 4
+	Query: "elf" ; Times: 7
+	Query: "Anas falcata" ; Times: 2
+	Query: "Sturnella militaris" ; Times: 1
+	Query: "Pasadena 1906" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "dendroica caerulescens washington" ; Times: 2
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Buthraupis montana" ; Times: 1
+	Query: "catharus minimus hastissue:1" ; Times: 3
+	Query: "Ephippiorhynchus senegalensis vntype:specimen" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "Cleptornis marchei" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "locality:Fort Worth stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 705 download events in this period)
+Total number of records downloaded: 769
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "Heliodoxa-jacula" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+
+
+End of report.
